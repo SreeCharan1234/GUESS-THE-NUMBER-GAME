@@ -32,4 +32,5 @@ while(True):
         number = str(number)
         print("Better Luck next time")
     print("Score is",score)
+    #this is all about the random numbera
     choice=input("Do you want to play again? yes-no :")
